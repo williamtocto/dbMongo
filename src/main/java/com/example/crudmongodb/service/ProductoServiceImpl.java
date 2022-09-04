@@ -19,5 +19,4 @@ public class ProductoServiceImpl extends GenericServiceImpl<Producto,Long> imple
     }
 
 
-
 }
